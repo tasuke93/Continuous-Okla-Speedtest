@@ -19,7 +19,7 @@ Run the Continuous Speed Test
 2.	Navigate to the directory containing the script.
 3.	Run the script:
 ```
-Start Continuous Okla Speedtest rev02.bat
+Start Continuous Okla Speedtest.bat
 ```
 ## Configuration
 •	Test Duration: Specify the duration for running the test in hours.
@@ -28,12 +28,12 @@ Start Continuous Okla Speedtest rev02.bat
 
 ## Example Usage
 ```
-Start Continuous Okla Speedtest rev02.bat
+Start Continuous Okla Speedtest.bat
 ```
 -- or --
 
 ```
-python3 Continuous-okla-Speedtest-rev02.py
+python3 Continuous-okla-Speedtest.py
 ```
 The script will prompt you to enter the test name, duration, and interval. It will also give you the option to specify a server ID.
 Output
